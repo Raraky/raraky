@@ -1,0 +1,5 @@
+frutas
+nome		preco		quant		
+banana		17,00		78		
+morango		9,99		81		
+maca		0,99		800		

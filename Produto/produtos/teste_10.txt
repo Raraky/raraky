@@ -1,0 +1,3 @@
+testando abc
+nome		preco		quantidade		
+sapato		10		90		

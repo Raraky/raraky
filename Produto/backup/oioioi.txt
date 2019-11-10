@@ -1,0 +1,5 @@
+escola		
+nome		idade		nota		
+jose		9		4		
+maria		10		10		
+carlos		9		6,7		
